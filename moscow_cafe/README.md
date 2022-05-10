@@ -1,6 +1,7 @@
 # Анализ рынка заведений общественного питания Москвы
 
 [Проект разработан в jupiter notebook.](https://github.com/bondiq1982/yandex-projects/blob/main/moscow_cafe/moscow_cafe.ipynb)
+[Презентация (pdf).](https://github.com/bondiq1982/yandex-projects/blob/main/moscow_cafe/Presentation.pdf)
 
 ## Описание проектов:
 |   |  |
