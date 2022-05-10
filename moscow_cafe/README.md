@@ -8,4 +8,9 @@
 |   |  |
 |---------------|-------------------|
 |Цель исследования|Цель исследования: формирование общего представления о рынке заведений общественного питания Москвы у потенциальных инвесторов с целью их привлечения в проект открытия кафе.|
-|Используемые библиотеки|import seaborn as sns /n import matplotlib.pyplot as plt / import pandas as pd / import numpy as np / from io import BytesIO / import requests|
+|Используемые библиотеки|seaborn  
+matplotlib  
+pandas  
+numpy  
+io  
+requests|
