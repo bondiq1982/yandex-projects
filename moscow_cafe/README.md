@@ -13,4 +13,4 @@
 |Статус проекта| Завершен|
 
 
-email: bond1982shestackov@yandex.ru
+Email: bond1982shestackov@yandex.ru
