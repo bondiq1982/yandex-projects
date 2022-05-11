@@ -13,4 +13,5 @@
 |Статус проекта| Завершен|
 
 
-Email: bond1982shestackov@yandex.ru
+[Email](mailto:bond_1982@bk.ru)<br/>
+[Telegram](https://t.me/mshestakov1982)
