@@ -18,5 +18,5 @@
 |9             |[A/B-тестирование изменений на сайте интернет-магазина](https://github.com/data-analyst-mr/yandex-projects/blob/main/a_b_test/README.md) / [Ноутбук](https://github.com/data-analyst-mr/yandex-projects/blob/main/a_b_test/a_b_test.ipynb) | Интернет-магазины| Оценка влияния изменений интерфейса сайта интернет-маназина на показатели прибыльности.| A/B-тестирование,<br/>проверка статистических гипотез,<br/>Python,<br/>Pandas,<br/>Matplotlib,<br/>SciPy|
 |10             |[Прогноз вероятности оттока клиентов фитнес-центра](https://github.com/data-analyst-mr/yandex-projects/blob/main/ml/README.md) / [Ноутбук](https://github.com/data-analyst-mr/yandex-projects/blob/main/ml/ml.ipynb) |Бизнес,<br/>Оффлайн| Cпрогнозировать вероятность оттока для каждого клиента в следующем месяце, сформировать с помощью кластеризации портреты пользователей.| Машинное обучение,<br/>классификация,<br/>кластеризация,<br/>Python,<br/>Pandas,<br/>Scikit-learn,<br/>Matplotlib,<br/>Seaborn|
 
-[Email](mailto:bond_1982@bk.ru)<br/>
+[Email](mailto:mikhail-shestakov-2022@bk.ru)<br/>
 [Telegram](https://t.me/mshestakov1982)
