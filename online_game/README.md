@@ -1,6 +1,6 @@
 # Модель монетизации online-игры.
 
-[jupiter notebook](https://github.com/bondiq1982/yandex-projects/blob/main/telecommunication/telecommunication.ipynb)<br/>
+[jupiter notebook](https://github.com/data-analyst-mr/yandex-projects/blob/main/online_game/online_game.ipynb)<br/>
 [Презентация (pdf).](https://github.com/bondiq1982/yandex-projects/blob/main/telecommunication/Presentation.pdf)<br/>
 [Дашборд tableau.](https://public.tableau.com/app/profile/.13981647/viz/telecomm_csi_tableau_16470850661180/Dashboard1?publish=yes)<br/>
 
