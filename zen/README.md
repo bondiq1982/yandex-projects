@@ -14,4 +14,4 @@
 
 
 [Email](mailto:mikhail-shestakov-2022@bk.ru)<br/>
-[Telegram](https://t.me/mshestakov1982)
+[Telegram](https://t.me/mshestakov1)
