@@ -20,4 +20,4 @@
 |11             |[Модель монетизации online-игры](https://github.com/data-analyst-mr/yandex-projects/blob/main/online_game/README.md) / [Презентация](https://github.com/data-analyst-mr/yandex-projects/blob/main/online_game/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20online-%D0%B8%D0%B3%D1%80%D1%8B.pdf) / [Ноутбук](https://github.com/data-analyst-mr/yandex-projects/blob/main/online_game/online_game.ipynb) / [Дашборд](https://public.tableau.com/app/profile/.13981647/viz/space_brothers_16657728983970/Dashboard1?publish=yes)| Gamedev,<br/>Интернет-магазины| формирование модели монетизации, обеспечивающей окупаемость маркетинговой компании.| Python,<br/>Pandas,<br/>NumPy,<br/>Matplotlib,<br/>предобработка данных,<br/>исследовательский анализ данных,<br/>описательная статистика,<br/>проверка статистических гипотез|
 
 [Email](mailto:mikhail-shestakov-2022@bk.ru)<br/>
-[Telegram](https://t.me/mshestakov1982)
+[Telegram](https://t.me/mshestakov1)
