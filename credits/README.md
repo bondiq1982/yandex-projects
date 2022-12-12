@@ -1,6 +1,6 @@
 # Исследование надёжности заёмщиков — анализ банковских данных
 
-[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/yandex-projects/blob/main/credits/%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D1%8B.ipynb)<br/>
+[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/yandex-projects/blob/main/credits/credits.ipynb)<br/>
 
 ## Описание проекта:
 |   |  |
