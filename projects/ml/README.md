@@ -1,6 +1,6 @@
 # Прогноз вероятности оттока клиентов фитнес-центра
 
-[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/yandex-projects/blob/main/ml/ml.ipynb)<br/>
+[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/analytical_projects/blob/main/projects/ml/ml.ipynb)<br/>
 
 ## Описание проекта:
 |   |  |
