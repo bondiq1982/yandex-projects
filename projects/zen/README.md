@@ -1,7 +1,7 @@
 # Контент Яндекс.Дзен
 
-[jupiter notebook](https://github.com/data-analyst-mr/yandex-projects/blob/main/zen/present_zen.ipynb)<br/>
-[Презентация (pdf).](https://github.com/data-analyst-mr/yandex-projects/blob/main/zen/present_zen.pdf)<br/>
+[jupiter notebook](https://github.com/data-analyst-mr/analytical_projects/blob/main/projects/zen/present_zen.ipynb)<br/>
+[Презентация (pdf).](https://github.com/data-analyst-mr/analytical_projects/blob/main/projects/zen/present_zen.pdf)<br/>
 [Дашборд tableau.](https://public.tableau.com/app/profile/mikhail7479/viz/Dashboard_Zen_16456282648980/Dashboard1?publish=yes)<br/>
 
 ## Описание проекта:
