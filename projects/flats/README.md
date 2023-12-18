@@ -1,6 +1,6 @@
 # Исследование объявлений о продаже квартир
 
-[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/yandex-projects/blob/main/flats/flats.ipynb)<br/>
+[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/analytical_projects/blob/main/projects/flats/flats.ipynb)<br/>
 
 ## Описание проекта:
 |   |  |
