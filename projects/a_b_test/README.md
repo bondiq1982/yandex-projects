@@ -1,6 +1,6 @@
 # A/B-тестирование изменений на сайте интернет-магазина
 
-[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/yandex-projects/blob/main/a_b_test/a_b_test.ipynb)<br/>
+[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/analytical_projects/blob/main/projects/a_b_test/a_b_test.ipynb)<br/>
 
 ## Описание проекта:
 |   |  |
