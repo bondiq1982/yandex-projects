@@ -1,6 +1,6 @@
 # Маркетинговый анализ продвижения на рынок приложения Procrastinate Pro+
 
-[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/yandex-projects/blob/main/procrastinatepro/procrastinate_pro.ipynb)<br/>
+[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/analytical_projects/blob/main/projects/procrastinatepro/procrastinate_pro.ipynb)<br/>
 
 ## Описание проекта:
 |   |  |
