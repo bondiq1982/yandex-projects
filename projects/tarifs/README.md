@@ -1,6 +1,6 @@
 # Определение оптимального тарифа для телеком-компании
 
-[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/yandex-projects/blob/main/tarifs/tarifs.ipynb)<br/>
+[Проект разработан в jupiter notebook.](https://github.com/data-analyst-mr/analytical_projects/blob/main/projects/tarifs/tarifs.ipynb)<br/>
 
 ## Описание проекта:
 |   |  |
