@@ -1,6 +1,6 @@
 # Исследование рынка российского кинопроката
 
-Проект выполнен в [jupiter notebook.](https://github.com/bondiq1982/yandex-projects/blob/main/moves/moves.ipynb)<br/>
+Проект выполнен в [jupiter notebook.](https://github.com/data-analyst-mr/analytical_projects/blob/main/projects/moves/moves.ipynb)<br/>
 
 ## Описание проекта:
 |   |  |
